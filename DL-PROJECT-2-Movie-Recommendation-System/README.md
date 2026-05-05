@@ -247,5 +247,5 @@ See [`LICENSE`](LICENSE) for full details.
 ---
 
 <div align="center">
-<b>Developed as part of Deep Learning Lab | B.E. Artificial Intelligence and Machine Learning| Academic Year 2025–26</b>
+<b>Developed as part of Deep Learning Lab | B.Tech Artificial Intelligence and Machine Learning| Academic Year 2025–26</b>
 </div>
